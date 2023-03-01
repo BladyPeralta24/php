@@ -10,6 +10,7 @@ class ComposerStaticInit63dfea20cf53b1dad25127804be75057
         '6124b4c8570aa390c21fafd04a26c69f' => __DIR__ . '/..' . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
         'ec07570ca5a812141189b1fa81503674' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
         '0bcdb4ba1e8357eb8f0e7a2a3dd81f56' => __DIR__ . '/../..' . '/app/Classes/funciones/factorial.php',
+        '00eba15b4bf657ffa9a70f2545084c56' => __DIR__ . '/../..' . '/app/Classes/funciones/realizar_calculo.php',
     );
 
     public static $prefixLengthsPsr4 = array (

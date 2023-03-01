@@ -9,4 +9,5 @@ return array(
     '6124b4c8570aa390c21fafd04a26c69f' => $vendorDir . '/myclabs/deep-copy/src/DeepCopy/deep_copy.php',
     'ec07570ca5a812141189b1fa81503674' => $vendorDir . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
     '0bcdb4ba1e8357eb8f0e7a2a3dd81f56' => $baseDir . '/app/Classes/funciones/factorial.php',
+    '00eba15b4bf657ffa9a70f2545084c56' => $baseDir . '/app/Classes/funciones/realizar_calculo.php',
 );
