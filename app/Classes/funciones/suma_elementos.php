@@ -1,9 +1,9 @@
 <?php
 
-    function tratar_elementos($array)
+    function tratar_elementos($arreglo)
     {
         $resultado = 0;
-        foreach ($array as $value)
+        foreach ($arreglo as $value)
         {
             if ($value % 1 == 0)
             {
@@ -20,6 +20,6 @@
 
 
 
-    $variable = array(1,2,3,4,5);
+    $variable = arreglo(1,2,3,4,5);
 
     echo tratar_elementos($variable);
