@@ -1,25 +1,22 @@
 <?php
 
-    function tratar_elementos($arreglo)
+    function tratar_elementos(array $arreglo)
     {
         $resultado = 0;
-        foreach ($arreglo as $value)
+        foreach ($arreglo as $clave => $valor)
         {
-            if ($value % 1 == 0)
+            if (!is_int($valor))
             {
-                $resultado -= $value; 
-
+                return false;
+            }
+            else if ($clave % 2 == 0)
+            {
+                $resultado += $valor; 
             }
             else
             {
-                $resultado += $value;
+                $resultado -= $valor;
             }
         }
         return $resultado;
     } 
-
-
-
-    $variable = arreglo(1,2,3,4,5);
-
-    echo tratar_elementos($variable);
