@@ -11,6 +11,8 @@ class ComposerStaticInit63dfea20cf53b1dad25127804be75057
         'ec07570ca5a812141189b1fa81503674' => __DIR__ . '/..' . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
         '0bcdb4ba1e8357eb8f0e7a2a3dd81f56' => __DIR__ . '/../..' . '/app/Classes/funciones/factorial.php',
         '00eba15b4bf657ffa9a70f2545084c56' => __DIR__ . '/../..' . '/app/Classes/funciones/realizar_calculo.php',
+        '18216bafd2ceafda2c7689f3df8ea5c7' => __DIR__ . '/../..' . '/app/Classes/funciones/suma_elementos.php',
+        '89a7b998640b90334d7cb08fbc8ce061' => __DIR__ . '/../..' . '/app/Classes/funciones/calculadora.php',
     );
 
     public static $prefixLengthsPsr4 = array (

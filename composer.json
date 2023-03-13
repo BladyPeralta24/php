@@ -17,7 +17,8 @@
         "files": [
             "app/Classes/funciones/factorial.php",
             "app/Classes/funciones/realizar_calculo.php",
-            "app/Classes/funciones/suma_elementos.php"
+            "app/Classes/funciones/suma_elementos.php",
+            "app/Classes/funciones/calculadora.php"
             ]
             
     },

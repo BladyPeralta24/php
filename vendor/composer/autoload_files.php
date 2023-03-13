@@ -10,4 +10,6 @@ return array(
     'ec07570ca5a812141189b1fa81503674' => $vendorDir . '/phpunit/phpunit/src/Framework/Assert/Functions.php',
     '0bcdb4ba1e8357eb8f0e7a2a3dd81f56' => $baseDir . '/app/Classes/funciones/factorial.php',
     '00eba15b4bf657ffa9a70f2545084c56' => $baseDir . '/app/Classes/funciones/realizar_calculo.php',
+    '18216bafd2ceafda2c7689f3df8ea5c7' => $baseDir . '/app/Classes/funciones/suma_elementos.php',
+    '89a7b998640b90334d7cb08fbc8ce061' => $baseDir . '/app/Classes/funciones/calculadora.php',
 );
